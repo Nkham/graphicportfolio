@@ -1,2 +1,2 @@
 # graphicportfolio
-This is my portfolio from my graphics class.
+A sample portfolio for my graphics class.
